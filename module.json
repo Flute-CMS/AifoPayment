@@ -1,0 +1,8 @@
+{
+    "name": "AifoPayment",
+    "version": "1.0.0",
+    "description": "AIFO.PRO payment gateway for Flute CMS",
+    "authors": ["AIFO.PRO"],
+    "providers": ["Flute\\Modules\\AifoPayment\\ServiceProviders\\AifoServiceProvider"],
+    "dependencies": {}
+}
